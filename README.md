@@ -11,7 +11,7 @@
 [![Rich](https://img.shields.io/badge/UI-Rich-magenta.svg?style=flat)](https://rich.readthedocs.io)
 
 Modern proxy collection and validation tool with beautiful CLI interface
- 
+  
 
 ---
    
